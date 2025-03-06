@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MrSamuelUN/mrsamuelun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Mr. Sam - Frontend Web Developer! 🚀  
 
-Here are some ideas to get you started:
+🔭  Passionate about crafting responsive and dynamic web experiences using **React.js, Next.js, JavaScript, Redux Toolkit, and Bootstrap**. I focus on clean UI/UX,     
+    performance optimization, and seamless user interactions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack:  **HTML | CSS | JavaScript | React.js | Next.js | Redux Toolkit | Bootstrap | GitHub**  
+
+### 🎨 Interests:  **Frontend development, animations with **Framer Motion**, and building intuitive web interfaces.**  
+
+### 📌 Featured Projects:  
+- 🛍️ **E-Commerce Platform** – React.js, Context API, Bootstrap  
+- 🎬 **Movie Database App** – Next.js, API Integration  
+- 🔍 **JavaScript Filter & Search Feature** – Vanilla JS, HTML, CSS  
