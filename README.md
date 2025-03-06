@@ -12,4 +12,5 @@
 ### 📌 Featured Projects:  
 - 🛍️ **E-Commerce Platform** – React.js, Context API, Bootstrap  
 - 🎬 **Movie Database App** – Next.js, API Integration  
-- 🔍 **JavaScript Filter & Search Feature** – Vanilla JS, HTML, CSS  
+- 🔍 **JavaScript Filter & Search Feature** – Vanilla JS, HTML, CSS
+- 📫 **Reach me at:** [LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Portfolio](your-portfolio-url)  
