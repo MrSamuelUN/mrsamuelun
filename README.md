@@ -1,5 +1,5 @@
-# Hi there, 👋 my name is Samuel Uebari
-#### I am a front-end web developer
+# Hi there, 👋 my name is Samuel Uebari.
+#### I am a front-end web developer.
 ![I am a front-end web developer](https://pbs.twimg.com/profile_banners/1831812948924186624/1741638898/600x200)
 
 Frontend web developer Passionate about building responsive and user-friendly web applications. Always learning and exploring new technologies
@@ -18,7 +18,7 @@ Skills: HTML | CSS | JavaScript | React.js | Bootstrap | Next.Js
 - 🛍️ **E-Commerce Platform** – React.js, Context API, Bootstrap  
 - 🎬 **Movie Database App** – Next.js, API Integration  
 - 🔍 **JavaScript Filter & Search Feature** – Vanilla JS, HTML, CSS
-- 📫 **Reach me at:** [X](https://x.com/Mrsamuel_UN) | [Email](samueluebari7@gmail.com) | [Portfolio](your-portfolio-url)
+- 📫 **Reach me at:** [X](https://x.com/Mrsamuel_UN) | [Email](samueluebari7@gmail.com) | [Portfolio](https://my-portfolio-h68b.vercel.app/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrsamuelUN&theme=light&show_icons=true)
